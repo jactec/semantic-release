@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jactec/semantic-release/compare/v1.1.0...v1.1.1) (2022-01-18)
+
+
+### Performance Improvements
+
+* minor commit ([7665c18](https://github.com/jactec/semantic-release/commit/7665c18b18d405769222bd0976d6affa033d2507))
+
 # [1.1.0](https://github.com/jactec/semantic-release/compare/v1.0.1...v1.1.0) (2022-01-18)
 
 
