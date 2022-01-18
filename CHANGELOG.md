@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/jactec/semantic-release/compare/v1.1.2...v1.2.0) (2022-01-18)
+
+
+### Bug Fixes
+
+* a fix on develop commit ([cd64407](https://github.com/jactec/semantic-release/commit/cd64407a883a04544dbec91dca20f83a2818a5ab))
+
+
+### Features
+
+* a feat on develop commit ([889935c](https://github.com/jactec/semantic-release/commit/889935c16caf2a96bed20de0da608752b1f5a80e))
+
 ## [1.1.2](https://github.com/jactec/semantic-release/compare/v1.1.1...v1.1.2) (2022-01-18)
 
 
