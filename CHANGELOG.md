@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jactec/semantic-release/compare/v1.0.1...v1.1.0) (2022-01-18)
+
+
+### Features
+
+* major release ([58b4219](https://github.com/jactec/semantic-release/commit/58b4219908a73542a028922b19ed3d3d8d1ed5f3))
+
 ## [1.0.1](https://github.com/jactec/semantic-release/compare/v1.0.0...v1.0.1) (2022-01-18)
 
 
